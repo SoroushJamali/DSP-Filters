@@ -33,16 +33,16 @@ The code creates four images representing the original and filtered signals and 
 
 all.jpg: Shows the original signal and the output of the low-pass, high-pass, and band-pass filters.
 
-[image/all.jpg](https://github.com/SoroushJamali/DSP-Filters/blob/main/Results/all.JPG)
+[image/all.jpg](https://github.com/SoroushJamali/DSP-Filters/blob/main/Results/all.JPG?raw=true)
 
 LP.jpg: Shows the frequency response of the low-pass filter.
 
-[image/LP.jpg](https://github.com/SoroushJamali/DSP-Filters/blob/main/Results/LP.JPG)
+[image/LP.jpg](https://github.com/SoroushJamali/DSP-Filters/blob/main/Results/LP.JPG?raw=true)
 
 HP.jpg: Shows the frequency response of the high-pass filter.
 
-[image/HP.jpg](https://github.com/SoroushJamali/DSP-Filters/blob/main/Results/HP.JPG)
+[image/HP.jpg](https://github.com/SoroushJamali/DSP-Filters/blob/main/Results/HP.JPG?raw=true)
 
 BP.jpg: Shows the frequency response of the band-pass filter.
 
-[image/BP.jpg](https://github.com/SoroushJamali/DSP-Filters/blob/main/Results/BP.JPG)
+[image/BP.jpg](https://github.com/SoroushJamali/DSP-Filters/blob/main/Results/BP.JPG?raw=true)
