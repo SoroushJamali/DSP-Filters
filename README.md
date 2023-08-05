@@ -18,14 +18,12 @@ To clone the repository, open a terminal and run:
 ```bash
 git clone https://github.com/<Your GitHub Username>/signal-filtering.git
 
-Replace <Your GitHub Username> with your actual GitHub username.
-
-#Usage
+Usage
 Compile the program with g++:
 
 g++ main.cpp -o main
 
-# Run the program:
+Run the program:
 
 ./main
 
