@@ -16,23 +16,24 @@ The code requires the GNU plot library. You can download it from [here](http://w
 To clone the repository, open a terminal and run:
 
 ```bash
-git clone https://github.com/<Your GitHub Username>/signal-filtering.git
+git clone [https://github.com/<Your GitHub Username>/signal-filtering.git](https://github.com/SoroushJamali/DSP-Filters.git)
+```
+# Usage
 
-Usage
 Compile the program with g++:
-
+```bash
 g++ main.cpp -o main
-
-Run the program:
-
+```
+# Run the program:
+```bash
 ./main
-
+```
 # Outputs
 The code creates four images representing the original and filtered signals and their frequency responses:
 
 all.jpg: Shows the original signal and the output of the low-pass, high-pass, and band-pass filters.
 
-all.jpg
+image/all.jpg
 
 LP.jpg: Shows the frequency response of the low-pass filter.
 
@@ -45,15 +46,3 @@ HP.jpg
 BP.jpg: Shows the frequency response of the band-pass filter.
 
 BP.jpg
-
-vbnet
-Copy code
-
-Please remember to replace `<Your GitHub Username>` with your actual GitHub username. Also, you need to adjust the instructions if your repository's name or the code file's name differs from the one used here. 
-
-Finally, please ensure that the images are present in the same directory as the README file when you push your code to GitHub.
-
-
-
-User
-What should I name the repo?
